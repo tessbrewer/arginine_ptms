@@ -1,0 +1,12 @@
+"qseqid"	"sseqid"	"pident"	"length"	"mismatch"	"gapopen"	"qstart"	"qend"	"sstart"	"send"	"evalue"	"bitscore"
+"Escherichia_coli.2619172497"	"Clostridium_innocuum.8002550574"	32.995	197	105	4	6	186	6	191	2.45e-26	89.7
+"Escherichia_coli.2619172497"	"Nitrosomonas_communis.2630390152"	36.269	193	116	3	1	187	1	192	2.24e-31	102
+"Escherichia_coli.2619172497"	"Escherichia_coli.2619172497"	100	192	-5	4	1	187	1	192	1.72e-135	367
+"Escherichia_coli.2619172497"	"Shewanella_oneidensis"	35.263	190	112	6	6	187	6	192	1.04e-27	93.2
+"Escherichia_coli.2619172497"	"Herpetosiphon_aurantiacus.2509063662"	38.503	187	110	4	6	187	6	192	3.1e-36	115
+"Escherichia_coli.2619172497"	"Denitrovibrio_acetiphilus.646668499"	49.462	186	89	4	7	187	7	192	4e-55	163
+"Escherichia_coli.2619172497"	"Geoalkalibacter_ferrihydriticus.2595229596"	38.172	186	110	2	6	186	6	191	1.59e-32	105
+"Escherichia_coli.2619172497"	"Escherichia_coli.2619170694"	28.495	186	128	3	6	186	6	191	1.54e-24	84.7
+"Escherichia_coli.2619172497"	"Akkermansia_muciniphila.8003496214"	31.579	152	102	1	38	187	41	192	3.9e-23	81.3
+"Escherichia_coli.2619172497"	"Mesotoga_prima.2510411046"	40.94	149	86	1	40	186	43	191	3.72e-36	115
+"Escherichia_coli.2619172497"	"Deinococcus_radiodurans.2558118174"	44.898	147	79	1	42	186	45	191	8.83e-40	124

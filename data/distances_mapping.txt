@@ -1,0 +1,13 @@
+taxon_oid	species	DSM_id	pbad24	
+8003494075	Akkermansia municiphilia	DSM 26127	Akmu	
+8002550533	Clostridium innocuum	DSM 26113	Clii	
+2556921628	Deinococcus radiodurans	DSM 20539	dera24	
+646564527	Denitrovibrio acetiphilus	DSM 12809	deac24	
+2593339172	Geoalkalibacter ferrihydriticus	DSM 17813	gefeR24	
+2508501111	Herpetosiphon aurantiacus	DSM 785	heau24	
+2585428042	Marinitoga hydrogenitolerans	DSM 16785	mehy24	
+2510065086	Mesotoga prima	DSM 24444	mepr24	"no genome for this strain, used MesG1AG4.2"
+2627854142	Nitrosomonas communis	DSM 28436	nico24	
+BW25113	Escherichia coli		eco24	
+GCA.000146165	Shewanella oneidensis		shon24	
+GCF.042159195	Pseudomonas putida		ppu24	
